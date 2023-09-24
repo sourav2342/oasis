@@ -21,9 +21,12 @@
 
 ## Features
 
--   **`The Wild Oasis`** is a **`Single Page Application`** Admin Dashboard built with **`React`**. **`Supabase`** is used as the backend and **`React Query`** is used for remote state management. **`Styled Components`** is used for styling and **`Recharts`** is used for displaying charts, **`React Router`** for navigation and routing, **`React Hook Form`** for complex form handling and validation.
+-   **`Project Oasis`** is a Single Page React Application Admin Dashboard built with **`React`**. **`Supabase`** is used as the backend and **`React Query`** is used for remote state management.
+-    **`Styled Components`** is used for styling and **`Recharts`** is used for displaying charts, **`React Router`** for navigation and routing, **`React Hook Form`** for complex form handling and validation.
 
--   The **`dashboard`** for Hotel Cabins also has **`dark and light`** mode. Users of the **`Web-App`** are the hotel employees.
+-   The **`dashboard`** for Hotel Cabins also has **`dark and light`** mode.
+
+-   Users of the Web-App are the hotel employees.
 
 -   Users can view all the cabins, booking and their account details, edit their profile and they can create new  users accounts.
 
