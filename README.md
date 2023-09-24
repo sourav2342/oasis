@@ -1,4 +1,4 @@
-# The Wild Oasis
+#  Oasis
 
 ## [`👉 Demo Link 👈🏻`](https://sparkly-cupcake-70a0f6.netlify.app)
 
